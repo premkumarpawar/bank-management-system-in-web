@@ -45,11 +45,6 @@ You can register a new account or log in using the following credentials:
 
 Once logged in, you can access your account, transfer funds, view your profile, transaction history, and analytics.
 
-## Screenshots:
-![Home](https://i.ibb.co/ck6s0ss/bank-management-system-home.jpg)
-![Dashboard](https://i.ibb.co/pZJJFVV/bank-management-system-dashboard.jpg)
-![Analytics](https://i.ibb.co/HGnX1gX/bank-management-system-analytics.jpg)
-
 ## Contribution
 
 Contributions to the project are welcomed.

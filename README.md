@@ -1,4 +1,5 @@
-# Bank Management System in Web
+# Bank Management System in Web (By Premkumar Pawar)
+
 ![HTML](https://img.shields.io/badge/HTML-orange.svg)
 ![CSS](https://img.shields.io/badge/CSS-blue.svg)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg)
@@ -7,49 +8,35 @@
 ![SQL](https://img.shields.io/badge/SQL-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-red.svg)
 
-A Web-based banking system, providing account login, creation, balance inquiry, fund transfers, analytics, and more.
+A simple yet functional **Web-based Bank Management System** built using PHP & MySQL.  
+Developed by **Premkumar Pawar**, this project includes login, registration, balance check, money transfer, and more!
 
-## Features
+---
 
-- **User Authentication:** Secure login and account creation for users.
-- **Balance Inquiry:** Check the account balance easily.
-- **Fund Transfers:** Transfer funds between accounts.
-- **Transaction History:** View a detailed history of transactions.
-- **Analytics:** Visualize transactions and track accounts
-- **Responsive Design:** User-friendly interface accessible on various devices.
+## 🚀 Features
 
-## Technologies Used
+- **User Authentication:** Secure login and new account registration
+- **Balance Inquiry:** View available account balance
+- **Fund Transfers:** Transfer funds to another account
+- **Transaction History:** All debit/credit logs
+- **Analytics:** Visualize your transactions
+- **Logout Session:** Secure session handling
+- **Responsive Design:** Works on mobile and desktop
+
+---
+
+## 🛠️ Technologies Used
 
 - Frontend: HTML, CSS, Bootstrap, JavaScript
-- Backend: PHP
-- Database: SQL
+- Backend: PHP (Core PHP)
+- Database: MySQL (via phpMyAdmin)
 
-## Installation
+---
 
-To set up the project locally, follow these steps:
+## 🧪 Installation Guide
 
-1. Clone the repository: `git clone https://github.com/sawongam/Bank-Management-System-in-Web.git`
-2. Navigate into the project directory: `cd Bank-Management-System-in-Web`
-3. Install a local server environment like XAMPP or WAMP.
-4. Copy the [database](https://github.com/sawongam/Bank-Management-System-in-Web/blob/main/database/bms.sql) to your Local Server environment.
-5. Move the project files to the htdocs folder of your local server.
-6. Start your local server and open the project in your browser.
+To run this project locally:
 
-## Demo
-
-You can visit the [link](http://sawongambnkltd.atspace.cc) to visit the live version of the website. 
-
-You can register a new account or log in using the following credentials:
-- Account Number: 200
-- Password: a
-
-Once logged in, you can access your account, transfer funds, view your profile, transaction history, and analytics.
-
-## Contribution
-
-Contributions to the project are welcomed.
-If you find any bugs, issues, or have suggestions for improvements, feel free to open an issue or submit a pull request. Let's collaborate and make this project better together.
-
-## Author
-
-This project was created by [sawongam](https://github.com/sawongam)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/bank-management-system-in-web.git
